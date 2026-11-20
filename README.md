@@ -200,13 +200,9 @@ Simulation completed. No emails were sent.
 
 \- Duplicate-processing prevention
 
-
-
 ## Screenshots
 
-
-
-Project demonstration screenshots are stored in the `images/` directory.
+![Email Automation Output](images/email_automation_output.png)
 
 
 
