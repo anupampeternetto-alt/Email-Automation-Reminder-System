@@ -1,0 +1,9 @@
+Subject: Reminder - $event 
+
+Hello $name,
+
+This is a friendly reminder about $event.
+Scheduled reminder time: $due_at
+
+Best regards,
+Automation Team
