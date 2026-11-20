@@ -220,5 +220,4 @@ email personalization, local scheduling, SMTP integration,
 
 error handling, logging, and Git version control.
 
-&#x20;             
 
