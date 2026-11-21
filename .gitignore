@@ -3,4 +3,7 @@
 __pycache__/
 *.pyc
 logs/*.log
+outputs/*.csvemail_automation.db
+
+*.db
 outputs/*.csv
